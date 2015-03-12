@@ -12,10 +12,4 @@
         <rstart>1</rstart>
         <rend>999</rend>
   </imeicode>
-  <imeicode imei = "356044060792064">
-        <url>https://raw.githubusercontent.com/amardhade/Fuel-XML/master/transporter.xml</url>
-        <version>1</version>
-        <rstart>500</rstart>
-        <rend>600</rend>
-  </imeicode>
 </devices>
