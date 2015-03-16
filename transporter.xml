@@ -17,6 +17,10 @@
             <ContractorName>update user test</ContractorName>
             <VehicleNo>MH12-KH2222</VehicleNo>
         </ContractorCode>
+        <ContractorCode Code="505">
+            <ContractorName>update user test-2</ContractorName>
+            <VehicleNo>MH12-KH2222</VehicleNo>
+        </ContractorCode>
     </VechicleType>
     <VechicleType type="tractor">
         <ContractorCode Code="5">
