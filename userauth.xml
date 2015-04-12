@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+<loginid id = "abc">
+<password>abc</password>
+<username>Manoj Tilekar</username>
+</loginid>
+<loginid id = "pqr">
+<password>123456</password>
+<username>Amar Dhade</username>
+</loginid>
+</users>
