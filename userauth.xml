@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <users>
   <loginid id = "123">
-    <username>amar dhade</username>
+    <username>amard</username>
     <password>12345</password>
   </loginid>
   <loginid id = "456">
